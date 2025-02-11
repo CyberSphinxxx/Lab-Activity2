@@ -3,10 +3,12 @@
 }
 
 .social-links a {
+    transition: 500ms ease;
     margin: 0 10px;
 }
 
 .social-links a:hover {
+    transition: 500ms ease;
     text-decoration: underline;
 }
 
